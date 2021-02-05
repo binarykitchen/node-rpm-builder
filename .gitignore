@@ -11,3 +11,6 @@ rpm-builder-test-tmp*
 *.tmp
 *.log
 *.todo
+
+yarn.lock
+.vscode
